@@ -7,7 +7,6 @@ This project analyzes hotel booking data to identify booking trends, customer be
 
 ##  Dashboard Preview
 
-> Add your dashboard screenshot here.
 
 ![Dashboard](Dashboard.png)
 
